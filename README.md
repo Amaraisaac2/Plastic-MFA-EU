@@ -25,4 +25,4 @@ Reconstructing plastic material flows across the EU economy using Eurostat PRODC
 
 ## Example Output
 
-![Sankey](figures/sankey_2019.png)
+![Sankey](figures/Sankey_Diagram_2019.png)
