@@ -1,0 +1,25 @@
+# Large datasets
+*.gz
+*.zip
+*.7z
+
+# Excel outputs
+Plastic_demand.xlsx
+Plastic_demand_2022.xlsx
+PRODCOM_2005_2022_EU27.xlsx
+PRODCOM_2005_2022_EU27_2022.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
